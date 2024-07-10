@@ -45,7 +45,7 @@ Serveur auto herbergé à la maison
 
 ## Configuration Fail2Ban
   2 écoutes distinct de log entre le front (beleguic.fr) et Adminer (adminer.beleguic.fr)  
-    - 404  
+      - 404  
     - BadBots  
     - botSearch  
     - bad-request  
