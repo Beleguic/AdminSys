@@ -4,9 +4,9 @@ Projet Administration et sécurisation de serveur web
 [Thibault BELEGUIC](https://belegiuc.fr)
 
 ## Nom de domaine
-[Thibault BELEGUIC](https://github.com/Beleguic/)
-[Jean-Paul HAYEK](https://github.com/jphayek/)
-4IW1
+[Thibault BELEGUIC](https://github.com/Beleguic/)  
+[Jean-Paul HAYEK](https://github.com/jphayek/)  
+4IW1  
 
 ## Type d'hebergement
 Serveur auto herbergé à la maison
@@ -44,7 +44,7 @@ Serveur auto herbergé à la maison
     3. Redemarre NGINX  
 
 ## Configuration Fail2Ban
-  2 ecoute distinct de log entre le front (beleguic.fr) et Adminer (adminer.beleguic.fr)  
+  2 écoutes distinct de log entre le front (beleguic.fr) et Adminer (adminer.beleguic.fr)  
     - 404  
     - BadBots  
     - botSearch  
