@@ -1,8 +1,12 @@
 # AdminSys
 Projet Administration et sécurisation de serveur web
 
+[Thibault BELEGUIC](https://belegiuc.fr)
+
 ## Nom de domaine
-[beleguic.fr](https://belegiuc.fr)
+[Thibault BELEGUIC](https://github.com/Beleguic/)
+[Jean-Paul HAYEK](https://github.com/jphayek/)
+4IW1
 
 ## Type d'hebergement
 Serveur auto herbergé à la maison
